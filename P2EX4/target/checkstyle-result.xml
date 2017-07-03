@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="C:\Users\lucas\workspace\P2EX4\src\main\java\src\ReadWrite.java">
+<error line="21" severity="warning" message="Filho de method def no nível de indentação 3 não está na indentação correcta, 4" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>
